@@ -1,0 +1,3 @@
+C:/Users/Beryl/CLionProjects/utester/cmake-build-debug/CMakeFiles/utester.dir
+C:/Users/Beryl/CLionProjects/utester/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Beryl/CLionProjects/utester/cmake-build-debug/CMakeFiles/rebuild_cache.dir
